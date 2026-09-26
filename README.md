@@ -19,7 +19,7 @@ My background sits between software and networks: from backend services and mobi
 ## 🌐 Connect with me
 
 <!-- TODO: replace the LinkedIn URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-silva-11b945338/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelsiilva1)
 
 ![Profile views](https://komarev.com/ghpvc/?username=miguelsiilva1&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
